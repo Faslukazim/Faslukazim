@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm FASALUL ABID</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <h2 align="center"> 📝 Portfolio Link: https://faslukazim.github.io/Portfolio/ </h2>
 
-- 🌱 I’m currently learning **MERN FULL STACK**
+- 🌱 **MERN FULL STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faslukazim](https://github.com/Faslukazim)
 
